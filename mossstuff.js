@@ -131,7 +131,7 @@ editIngredient("boulder",{
 
 addRecipe("moss+moss","moss salad")
 
-addRecipe("sand+ryan","sandboxels")
+addRecipe("sand+r74n","sandboxels")
 
 addRecipe("moss+plant","garden")
 
